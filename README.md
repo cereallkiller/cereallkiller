@@ -4,11 +4,10 @@
 ## 🚀 Sobre mí
 <ul dir="auto">
 <li>👾 Offensive Security Engineer | Ethical Hacker | Researcher | Ramsomware fan </li>
-<li>🎓 Fundador de <a href="https://www.h4ckercademy.com" rel="nofollow">threatnotfound security</a> - Emopresa de Seguridad</li>
+<li>🎓 Fundador de <a href="https://www.threatnotfound.com" rel="nofollow">threatnotfound security</a> - Empresa de Seguridad</li>
 </ul>
 
-## 🔧 Skills
-### Lenguajes de Programación
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
@@ -34,12 +33,12 @@
 ![Powershell](http://img.shields.io/badge/-Powershell-5391FE?style=flat-square&logo=powershell&logoColor=ffffff)
 ![Windows](http://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=ffffff)
 
-### Sistemas Operativos
+
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
-### Hacking Tools
+
 ![Metasploit](https://img.shields.io/badge/Metasploit-4986B1?style=for-the-badge&logo=metasploit&logoColor=white)
 ![Nmap](https://img.shields.io/badge/Nmap-7C3BE4?style=for-the-badge&logo=nmap&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
@@ -59,7 +58,7 @@
 ![Hashcat](https://img.shields.io/badge/Hashcat-994422?style=for-the-badge&logo=hashcat&logoColor=white)
 ![BloodHound](https://img.shields.io/badge/BloodHound-cc0000?style=for-the-badge&logo=bloodhound&logoColor=white)
 <br><br>
-Y muchas más!
+
 
 ## ⚙️ GitHub Analytics
 <div style="display: flex; justify-content: space-between;">
