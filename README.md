@@ -1,5 +1,5 @@
 ## Hola, cereallkiller (cerealkiller)
-![git-banner](https://github.com/user-attachments/assets/5d495bd7-2101-4bde-906d-e0ad1d178535)
+![git-banner](https://github.com/user-attachments/assets/)
 
 ## 🚀 Sobre mí
 <ul dir="auto">
