@@ -1,12 +1,10 @@
 ## Hola, cereallkiller (cerealkiller)
 ![git-banner](https://github.com/user-attachments/assets/)
 
-## 🚀 Sobre mí
 <ul dir="auto">
 <li>👾 Offensive Security Engineer | Ethical Hacker | Researcher | Ramsomware fan </li>
 <li>🎓 Fundador de <a href="https://www.threatnotfound.com" rel="nofollow">threatnotfound security</a> - Empresa de Seguridad</li>
 </ul>
-
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
@@ -62,9 +60,9 @@
 
 ## ⚙️ GitHub Analytics
 <div style="display: flex; justify-content: space-between;">
-  <img src="https://github-readme-stats.vercel.app/api?username=afsh4ck&show_icons=true&theme=merko" alt="GitHub stats" height="148">
-  <a href="https://github.com/afsh4ck/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=afsh4ck&layout=compact&theme=merko" alt="Top Langs" height="148">
+  <img src="https://github-readme-stats.vercel.app/api?username=cereallkiller&show_icons=true&theme=merko" alt="GitHub stats" height="148">
+  <a href="https://github.com/cereallkiller/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cereallkiller&layout=compact&theme=merko" alt="Top Langs" height="148">
   </a>
 </div>
 <br>
