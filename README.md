@@ -66,5 +66,3 @@
   </a>
 </div>
 <br>
-
-¡Gracias por visitar mi perfil! 🚀
